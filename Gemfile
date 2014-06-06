@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.1.1'
 
+gem 'coffee-rails'
 gem 'haml-rails'
 gem 'json'
 gem 'sqlite3'
